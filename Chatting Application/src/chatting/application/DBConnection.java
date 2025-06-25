@@ -12,7 +12,7 @@ public class DBConnection {
                 conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/chatapp",
                     "root",   // replace with your MySQL user
-                    "@zenoguy04" );   // replace with your MySQL password
+                    "" );   // replace with your MySQL password
                 System.out.println("Connected to the database.");
                 
             } catch (Exception e) {
