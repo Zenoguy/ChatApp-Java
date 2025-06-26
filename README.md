@@ -79,4 +79,19 @@ Server: Hi there, welcome to ChatApp!
 
 | Client View                        | Server View                        |
 | ---------------------------------- | ---------------------------------- |
-| ![Client UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/Clientside.png) | ![Server UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/Serverside.png) |
+| ![Client UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/clientside.png) | ![Server UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/Serverside.png) |
+
+
+
+## 🙏 Acknowledgements
+
+I would like to thank [Code for Interview](https://www.youtube.com/@CodeForInterview) for the original chat application tutorial. This project is heavily inspired by their work.
+
+> I've extended the original project by:
+> - Revamping the **UI** with custom design and color themes  
+> - Adding **MySQL database integration** to store chat history  
+> - Implementing **chat history loading** on both client and server  
+> - Handling multiple client connections (server-side threading)  
+> - Improving UX with auto-scroll and Enter-to-send functionality
+
+
