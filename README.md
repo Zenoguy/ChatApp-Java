@@ -62,3 +62,21 @@ Edit DBConnection.java and replace:
 String url = "jdbc:mysql://localhost:3306/chatapp";
 String username = "your_username";
 String password = "your_password";
+
+4. **Run the Server**
+
+Open your IDE or terminal and run Server.java.
+
+5. **Run the Client**
+
+In a separate window, run Client.java.
+
+**Demo**
+A sample message exchange between Client and Server:
+
+Client: Hello!
+Server: Hi there, welcome to ChatApp!
+
+| Client View                        | Server View                        |
+| ---------------------------------- | ---------------------------------- |
+| ![Client UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/Clientside.png) | ![Server UI](https://github.com/Zenoguy/ChatApp-Java/blob/main/Chatting%20Application/src/Serverside.png) |
